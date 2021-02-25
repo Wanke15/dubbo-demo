@@ -29,5 +29,7 @@ docker-compose up -d
 ### 3. Run user-service-provider application and order-service-consumer application
 
 ### 4. Dobbo-admin information
+service provider
 <img src='./assets/service-provider.png'>
+service consumer
 <img src='./assets/service-consumer.png'>
